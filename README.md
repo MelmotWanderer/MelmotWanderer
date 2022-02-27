@@ -2,6 +2,7 @@
 About me: 
 <ul>
   <li> I learn to be a competent programmer :). </li>
+  <li>I can be reached via Discord: Melmot#4540 </li> 
 
 </ul>
 
